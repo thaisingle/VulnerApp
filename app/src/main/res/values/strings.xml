@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">VulnerApp</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="txtLogin1">Login</string>
+    <string name="txtLogin2">Username</string>
+    <string name="txtLogin3">Password</string>
+    <string name="txtLogin4">WWW.ITSELECTLAB.COM</string>
+    <string name="txtLogin5">Version 0.1</string>
+    <string name="cmdLogin">Submit</string>
+
+
+    <string name="txtHome1">Successfully login</string>
+</resources>
