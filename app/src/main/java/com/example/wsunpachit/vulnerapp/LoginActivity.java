@@ -36,6 +36,7 @@ public class LoginActivity extends AppCompatActivity {
 
     public boolean isLogin(String paramString1, String paramString2)
     {
+        //Backdoor admin and password
         String str1 = "admin";
         String str2 = "password";
         return (paramString1.contentEquals(str1)) && (paramString2.contentEquals(str2));
